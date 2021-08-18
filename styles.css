@@ -1,0 +1,14 @@
+body {
+  background: rgb(14, 165, 0);
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFAPuJ87Bnzr8j9JwQXm4pHF3twMOl7YxYtg&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p, h1 {
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+iframe {
+}
